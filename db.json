@@ -6,9 +6,9 @@
  ],
  "overviewChartData": [
  
-        {name: 'High', data: {'Jan': 300, 'Feb': 900, 'March': 200, 'April': 200, 'May': 200, 'June': 200, 'July': 200}},
-        {name: 'Medium', data: {'Jan': 100, 'Feb': 200, 'March': 800, 'April': 100, 'May': 200, 'June': 300, 'July': 400}},
-        {name: 'Low', data: {'Jan': 100, 'Feb': 300, 'March': 100, 'April': 400, 'May': 800, 'June': 1000, 'July': 800}}
+        {"name": "High", "data": {"Jan": 300, "Feb": 900, "March": 200, "April": 200, "May": 200, "June": 200, "July": 200}},
+        {"name": "Medium", "data": {"Jan": 100, "Feb": 200, "March": 800, "April": 100, "May": 200, "June": 300, "July": 400}},
+        {"name": "Low", "data": {"Jan": 100, "Feb": 300, "March": 100, "April": 400, "May": 800, "June": 1000, "July": 800}}
  ],
    
  }
